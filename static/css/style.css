@@ -1,0 +1,15 @@
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.phone {
+    width: calc(33.333% - 20px);
+    padding: 15px;
+    text-align: center;
+}
+
+.phone img {
+    height: 400px;
+}
